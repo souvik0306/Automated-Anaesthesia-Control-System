@@ -1,0 +1,16 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: IoT based Anesthesia Control and Monitoring System
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Kanimozhi G
+    email: kanimozhi.g@vit.ac.in
+  - given-names: Mangolik Kundu
+    email: mangolik.kundu2019@vitstudent.ac.in
+  - given-names: Souvik Datta
+    email: souvik.datta2019@vitstudent.ac.in
