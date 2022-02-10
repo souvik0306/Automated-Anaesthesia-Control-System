@@ -12,12 +12,12 @@ message: >-
   metadata from this file.
 type: software
 authors:
-  - given-names: Kanimozhi G
-    email: kanimozhi.g@vit.ac.in
-    affiliation: School of Electrical Engineering
   - given-names: Mangolik Kundu
     email: mangolik.kundu2019@vitstudent.ac.in
     affiliation: School of Electrical Engineering
   - given-names: Souvik Datta
     email: souvik.datta2019@vitstudent.ac.in
+    affiliation: School of Electrical Engineering
+  - given-names: Kanimozhi G
+    email: kanimozhi.g@vit.ac.in
     affiliation: School of Electrical Engineering
