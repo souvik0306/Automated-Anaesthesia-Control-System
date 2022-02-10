@@ -3,8 +3,8 @@
 
 
 ## Reference - 
-*K. G, M. Kundu and S. Datta, “IoT based Anesthesia Control and Monitoring System”, in
+*M. Kundu, **S. Datta** and K.G, “IoT based Anesthesia Control and Monitoring System”, in
 Reinvention of Health Applications with IoT: Challenges and Solutions, 1st ed., A. Pathy and S. S, Ed.
-Taylor and Francis Group, 2022, Chapter - 8.*
+Taylor and Francis Group, 2022, Chapter - 8, pp. 127-141.*
 
 Link to Publication - [Taylor and Francis Group](https://www.routledge.com/Reinvention-of-Health-Applications-with-IoT-Challenges-and-Solutions/Ambikapathy-Shobana-Logavani-Dharmasa/p/book/9780367763343)
