@@ -10,7 +10,7 @@ title: >-
 message: >-
   If you use this software, please cite it using the
   metadata from this file.
-type: book
+type: software
 authors:
   - affiliation: School of Electrical Engineering
     family-names: Kundu
