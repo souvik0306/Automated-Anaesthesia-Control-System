@@ -1,25 +1,46 @@
 # This CITATION.cff file was generated with cffinit.
 # Visit https://bit.ly/cffinit to generate yours today!
-
-cff-version: 1.2.0
-title: >-
-  IoT based Anesthesia Control and Monitoring System
-  in Reinvention of Health Applications with IoT:
-  Challenges and Solutions, 1st ed., A. Pathy and S.
-  S, Ed. Taylor and Francis Group, 2022, Chapter - 8, pp. 127-141.
-message: >-
-  If you use this software, please cite it using the
-  metadata from this file.
-type: software
 authors:
-  - affiliation: School of Electrical Engineering
-    given-names: Mangolik K.
-    email: mangolik.kundu2019@vitstudent.ac.in
+  - affiliation: Netherlands eScience Center
+    family-names: Spaaks
+    given-names: Jurriaan H.
+    orcid: https://orcid.org/0000-0002-7064-4069
+  - affiliation: Netherlands eScience Center
+    family-names: Klaver
+    given-names: Tom
+  - affiliation: Netherlands eScience Center
+    family-names: Verhoeven
+    given-names: Stefan
+    orcid: https://orcid.org/0000-0002-5821-2060
+  - affiliation: Humboldt-Universität zu Berlin
+    family-names: Druskat
+    given-names: Stephan
+    orcid: https://orcid.org/0000-0003-4925-7248
+  - affiliation: University of Oslo
+    family-names: Leoncio
+    given-names: Waldir
+    name-suffix: Netto
+cff-version: 1.2.0
+date-released: 2021-09-22
+cff-version: 1.2.0
+# title: >-
+#   IoT based Anesthesia Control and Monitoring System
+#   in Reinvention of Health Applications with IoT:
+#   Challenges and Solutions, 1st ed., A. Pathy and S.
+#   S, Ed. Taylor and Francis Group, 2022, Chapter - 8, pp. 127-141.
+# message: >-
+#   If you use this software, please cite it using the
+#   metadata from this file.
+# type: software
+# authors:
+#   - affiliation: School of Electrical Engineering
+#     given-names: Mangolik K.
+#     email: mangolik.kundu2019@vitstudent.ac.in
     
-  - given-names: Souvik Datta
-    email: souvik.datta2019@vitstudent.ac.in
-    affiliation: School of Electrical Engineering
-  - given-names: Kanimozhi G
-    email: kanimozhi.g@vit.ac.in
-    affiliation: School of Electrical Engineering
-date-released: 2022-04-22
+#   - given-names: Souvik Datta
+#     email: souvik.datta2019@vitstudent.ac.in
+#     affiliation: School of Electrical Engineering
+#   - given-names: Kanimozhi G
+#     email: kanimozhi.g@vit.ac.in
+#     affiliation: School of Electrical Engineering
+# date-released: 2022-04-22
