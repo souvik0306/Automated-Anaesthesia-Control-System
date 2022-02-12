@@ -22,7 +22,7 @@ authors:
     name-suffix: Netto
 cff-version: 1.2.0
 date-released: 2021-09-22
-cff-version: 1.2.0
+# cff-version: 1.2.0
 # title: >-
 #   IoT based Anesthesia Control and Monitoring System
 #   in Reinvention of Health Applications with IoT:
