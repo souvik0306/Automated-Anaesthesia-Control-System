@@ -3,7 +3,7 @@
 
 
 ## Citation - 
-*M. Kundu, **S. Datta** and K.G, “IoT based Anaesthesia Control and Monitoring System”, in
+*M. Kundu, **S. Datta** and K.G, “IoT-Based Anaesthesia Control and Monitoring System”, in
 Reinvention of Health Applications with IoT: Challenges and Solutions, 1st ed., A. Pathy and S. S, Ed.
 Taylor and Francis Group, 2022, Chapter - 8, pp. 127-141.*
 
