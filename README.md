@@ -7,4 +7,7 @@
 Reinvention of Health Applications with IoT: Challenges and Solutions, 1st ed., A. Pathy and S. S, Ed.
 Taylor and Francis Group, 2022, Chapter - 8, pp. 127-141.*
 
-Link to Publication - [Taylor and Francis Group](https://www.routledge.com/Reinvention-of-Health-Applications-with-IoT-Challenges-and-Solutions/Ambikapathy-Shobana-Logavani-Dharmasa/p/book/9780367763343)
+Links to Publication - 
+1. [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=IoT-Based+Anaesthesia+Control+and+Monitoring+System&btnG=)
+2. [Taylor and Francis Group](https://www.routledge.com/Reinvention-of-Health-Applications-with-IoT-Challenges-and-Solutions/Ambikapathy-Shobana-Logavani-Dharmasa/p/book/9780367763343)
+3. [Research Gate](https://www.researchgate.net/publication/358442538_IoT-Based_Anaesthesia_Control_and_Monitoring_System)
