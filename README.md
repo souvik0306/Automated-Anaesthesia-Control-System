@@ -9,7 +9,7 @@ Anaesthesia influence is a state of controlled hypnosis induced during surgeries
 Reinvention of Health Applications with IoT: Challenges and Solutions, 1st ed., A. Pathy and S. S, Ed.
 Taylor and Francis Group, 2022, Chapter - 8, pp. 127-141. DOI: 10.1201/9781003166511-8*
 
-Links to Publication - 
+## Links to Publication - 
 1. [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=IoT-Based+Anaesthesia+Control+and+Monitoring+System&btnG=)
 2. [Taylor and Francis Group](https://www.routledge.com/Reinvention-of-Health-Applications-with-IoT-Challenges-and-Solutions/Ambikapathy-Shobana-Logavani-Dharmasa/p/book/9780367763343)
 3. [Google Books](https://books.google.co.in/books?id=KppdEAAAQBAJ&newbks=0&printsec=frontcover&pg=PA127&hl=en&source=newbks_fb&redir_esc=y#v=onepage&q&f=false)
