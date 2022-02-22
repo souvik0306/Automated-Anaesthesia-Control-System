@@ -16,5 +16,5 @@ Taylor and Francis Group, 2022, Chapter - 8, pp. 127-141. DOI: 10.1201/978100316
 ## Links to Publication - 
 1. Google Scholar - [[Link]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=IoT-Based+Anaesthesia+Control+and+Monitoring+System&btnG=)
 2. Taylor and Francis Group - [[Link]](https://www.routledge.com/Reinvention-of-Health-Applications-with-IoT-Challenges-and-Solutions/Ambikapathy-Shobana-Logavani-Dharmasa/p/book/9780367763343)
-3. Google Books- [[Link]](https://books.google.co.in/books?id=KppdEAAAQBAJ&newbks=0&printsec=frontcover&pg=PA127&hl=en&source=newbks_fb&redir_esc=y#v=onepage&q&f=false)
-4. Research Gate- [[Link]](https://www.researchgate.net/publication/358442538_IoT-Based_Anaesthesia_Control_and_Monitoring_System)
+3. Google Books - [[Link]](https://books.google.co.in/books?id=KppdEAAAQBAJ&newbks=0&printsec=frontcover&pg=PA127&hl=en&source=newbks_fb&redir_esc=y#v=onepage&q&f=false)
+4. Research Gate - [[Link]](https://www.researchgate.net/publication/358442538_IoT-Based_Anaesthesia_Control_and_Monitoring_System)
